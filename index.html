@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WaifuDex</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="cabecalho">
+        <h1>WaifuDex</h1>
+        <div class="pesquisa-filtros">
+        <input type="text" id="pesquisa" placeholder="Pesquisar personagem ou anime...">
+         <select id="filtro-genero">
+             <option value="Todos">Todos os gêneros</option>
+             <option value="Romance">Romance</option>
+             <option value="Ação">Ação</option>
+             <option value="Comédia">Comédia</option>
+             <option value="Drama">Drama</option>
+             <option value="Fantasia">Fantasia</option>
+             <option value="Isekai">Isekai</option>
+             <option value="Slice of Life">Slice of Life</option>
+             <option value="Ficção Científica">Ficção Científica</option>
+             <option value="Musical">Musical</option>
+        </select>
+        <button id="btn-favoritos" aria-label="Mostrar favoritas">🤍</button>
+        </div>
+        <nav>
+            <a href="#" id="inicio">Início</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Passe o mouse para conhecer a personagem</h2>
+        <h3 class="instrucoes">Para marcar como favorita, clique 2 vezes</h3>
+        <section class="container-cards" id="container-cards"></section>
+    </main>
+
+    <footer>
+        <p>Projeto feito por Henrique Godoy</p>
+    </footer>
+
+     <script src="script.js" defer></script>
+ </body>
+</html>
