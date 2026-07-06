@@ -25,14 +25,21 @@ The project was created as part of a school project using only HTML, CSS and Jav
 
 ## 📸 Screenshots
 
-<img width="1365" height="767" alt="Captura de tela 2026-07-04 180229" src="https://github.com/user-attachments/assets/261cde36-4376-442a-a0d8-9e269cce41d8" />
+### 🏠 Main Interface
 
-<img width="1365" height="767" alt="Captura de tela 2026-07-04 180330" src="https://github.com/user-attachments/assets/54af7f46-0eb4-498b-b618-536ba66a7e85" />
+<img width="1365" height="767" alt="Main Interface" src="https://github.com/user-attachments/assets/261cde36-4376-442a-a0d8-9e269cce41d8" />
 
-<img width="1365" height="767" alt="Captura de tela 2026-07-04 180310" src="https://github.com/user-attachments/assets/cee00cb3-6fd9-45b2-8ad5-54ae6d4b0df5" />
+### 🎭 Genre Filter (Action)
 
-<img width="1365" height="767" alt="Captura de tela 2026-07-04 180359" src="https://github.com/user-attachments/assets/543751eb-5e5c-46a4-8ec2-5c2ee4dc0e4a" />
+<img width="1365" height="767" alt="Action Filter" src="https://github.com/user-attachments/assets/54af7f46-0eb4-498b-b618-536ba66a7e85" />
 
+### 🔍 Character Search (Hatsune Miku)
+
+<img width="1365" height="767" alt="Character Search" src="https://github.com/user-attachments/assets/cee00cb3-6fd9-45b2-8ad5-54ae6d4b0df5" />
+
+### ❤️ Favorites
+
+<img width="1365" height="767" alt="Favorites" src="https://github.com/user-attachments/assets/543751eb-5e5c-46a4-8ec2-5c2ee4dc0e4a" />
 
 ---
 
